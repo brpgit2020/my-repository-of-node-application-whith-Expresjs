@@ -1,9 +1,10 @@
 ENG
 ------
-============================================================================
+=======================================================================================================
 
-instruction how to make your own Dockerized server on nodejs with js express 
-============================================================================
+                "instruction how to make your own Dockerized server on nodejs with js express" 
+
+=======================================================================================================
 
 23/12/2021
 ----------
@@ -15,10 +16,12 @@ With that you have your Project in Docker.
 Pt-BR
 ------
 
-==================================================================================================
+=======================================================================================================
 
-  instrução de como fazer o seu proprio servidor NodeJs Dockerizado
-==================================================================================================
+                    ''instrução de como fazer o seu proprio servidor NodeJs Dockerizado''
+
+=======================================================================================================
+
 23/12/2021
 ----------
 Primeiro você tem que ter Docker, Git e Node JS, ter esses três programas instalados em sua máquina! caso contrário, clique neste link: https://docs.docker.com/get-started/ você será redirecionado para a página de início. Lá você terá todas as informações sobre como funciona o Docker e como instalá-lo em sua máquina.
